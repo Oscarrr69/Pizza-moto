@@ -5,7 +5,7 @@ This is a 'mini' Rails application that implements associations. It is an API fo
 
 ## Project repo
 - You can access this project at the following Github link; 
-    
+    https://github.com/Oscarrr69/Pizza-moto
 
 ## Getting Started
 To get started, please follow the instructions below:
